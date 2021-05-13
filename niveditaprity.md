@@ -1,7 +1,7 @@
-# _data-niveditaprity-
+
 ---
 name: Nivedita Kumari 
 institution: Muzaffarpur Institute of Technology 🚩 
-quote:"Don't Prove .Just improve yourself"
+quote:"Age is just a number, never stop learning"
 github_user: niveditaprity
 ---
